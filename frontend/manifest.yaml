@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: dakshina2025/frontend:1.4.0
+        image: dakshina2025/frontend:1.2.0
        
 ---
 kind: Service
